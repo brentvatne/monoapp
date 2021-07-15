@@ -6,7 +6,7 @@
       },
       "development": {
         "buildType": "development-client",
-        "distribution": "internal"
+        "distribution": "simulator"
       }
     }
   }
