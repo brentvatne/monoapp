@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "monoapp",
+    "slug": "monoapp",
+    "ios": {
+      "bundleIdentifier": "com.notbrent.app"
+    }
+  }
+}
